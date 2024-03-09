@@ -1,5 +1,3 @@
-# React + Vite
-
 ## React E-Commerce Application
 
 ### Description
